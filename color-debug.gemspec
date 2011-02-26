@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Spencer Markowski"]
   s.date = %q{2011-02-26}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Allows color customization of log messages in rails.}
   s.email = %q{spencer@theablefew.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.2}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{Allows color customization of log messages in rails.}
   s.test_files = [
     "test/helper.rb",
     "test/test_color-debug.rb"
